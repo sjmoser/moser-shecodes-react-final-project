@@ -7,9 +7,7 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by Sarah Moser and is{" "}
-        <a
-          href="https://github.com/sjmoser/moser-shecodes-react-final-project"
-        >
+        <a href="https://github.com/sjmoser/moser-shecodes-react-final-project">
           open-sourced on GitHub
         </a>
         .
