@@ -65,7 +65,6 @@ export default function Weather(props) {
           </div>
           <div className="col-6 text-end">
             <ul>
-              <li>Precipitation: 50%</li>
               <li>Humidity: {weatherData.humidity}%</li>
               <li>Wind: {Math.round(weatherData.wind)}km/h</li>
             </ul>
