@@ -9,7 +9,11 @@ export default function App() {
         <Weather defaultCity="Paris" />
         <footer>
           This project was coded by Sarah Moser and is{" "}
-          <a href="https://github.com/sjmoser/moser-shecodes-react-final-project">
+          <a
+            href="https://github.com/sjmoser/moser-shecodes-react-final-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on GitHub
           </a>
           .
