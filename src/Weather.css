@@ -28,11 +28,8 @@
   list-style: none;
 }
 
-.Weather img {
-  height: 48px;
-  width: 48px;
-  margin-right: 5px;
-  margin-top: -24px;
+.Weather canvas {
+  margin: -12px 6px -6px 0;
   display: inline-block;
 }
 
