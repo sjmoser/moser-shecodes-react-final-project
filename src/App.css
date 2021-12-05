@@ -8,3 +8,13 @@
   font-size: 12px;
   margin: 30px;
 }
+
+footer {
+  color: #212121;
+}
+
+footer a {
+  color: #57d2f2;
+  text-decoration: none;
+  font-weight: bold;
+}
