@@ -2,11 +2,15 @@
   text-align: center;
 }
 
+.WeatherForecast-temperatures {
+  color: black;
+}
+
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
 }
 
 .WeatherForecast-day {
-    font-weight: bold;
+  font-weight: bold;
 }
